@@ -1,0 +1,51 @@
+{
+
+  "products":[
+
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "image": "https://images.unsplash.com/photo-1598331668826-20cecc596b86?q=80&w=1636&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "price": 99.99,
+      "category": "Electronics",
+      "isFeature": true
+    },
+    {
+      "id": 2,
+      "name": "Smartwatch Pro",
+      "image": "https://images.unsplash.com/photo-1485206542366-16d53f333d1c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Advanced smartwatch with heart rate monitor and GPS.",
+      "price": 199.99,
+      "category": "Wearables",
+      "isFeature": false
+    },
+    {
+      "id": 3,
+      "name": "Gaming Laptop",
+      "image": "https://media.istockphoto.com/id/906347962/photo/gaming-laptop-with-connected-mouse-and-headphones.jpg?s=1024x1024&w=is&k=20&c=InUWs84lrV2w_ZUkXCf6Lf2kKOxPfXuBf7MAhqjvNu0=",
+      "description": "Powerful gaming laptop with the latest GPU and high refresh rate display.",
+      "price": 1299.99,
+      "category": "Computers",
+      "isFeature": true
+    },
+    {
+      "id": 4,
+      "name": "Bluetooth Speaker",
+      "image": "https://media.istockphoto.com/id/1385982565/photo/smart-speaker-on-the-table-in-the-living-room.jpg?s=1024x1024&w=is&k=20&c=dhaNV1wBbm3mmUX-9Ev2L5KpvEvBuo_b7mtjU52spbU=",
+      "description": "Portable Bluetooth speaker with deep bass and long battery life.",
+      "price": 49.99,
+      "category": "Audio",
+      "isFeature": false
+    },
+    {
+      "id": 5,
+      "name": "4K Ultra HD TV",
+      "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Ultra HD 4K television with vibrant colors and smart features.",
+      "price": 599.99,
+      "category": "Home Entertainment",
+      "isFeature": true
+    }
+  ]
+}

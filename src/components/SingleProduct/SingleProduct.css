@@ -1,0 +1,22 @@
+.card{
+  width: 300px;
+  border: 1px solid gray;
+  margin: 3px;
+  text-align: center;
+  box-shadow: 4px 4px 8px gray;
+  border-radius: 6px;
+
+}
+
+.card button{
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.img{
+  width: 100%;
+}
+
+.selected-img{
+  width: 50px;
+}

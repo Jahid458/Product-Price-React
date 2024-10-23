@@ -1,0 +1,13 @@
+.cart-container{
+  margin-right: 100px;
+  margin-top: 25px;
+}
+
+.active{
+  background-color: blue;
+  color: white;
+}
+.btn{
+  padding: 15px;
+  cursor: pointer;
+}

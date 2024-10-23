@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.nav-container{
+  display: flex;
+  background-color: skyblue;
+  justify-content: space-between;
+  width: 100%;
+
+}
+
+.logo{
+  margin-top: 15px;
+  padding-left: 25px;
+}
+
+.menus{
+  display: flex;
+  list-style: none;
+  gap: 15px;
+  margin: 15px;
+  padding: 5px;
+}
